@@ -1,6 +1,6 @@
 <h1 align="center">Uriel Guillen portfolio</h1>
 <br>
-<h3 align="center">Software engineer with 5 years of experience developing Angular applications of high quality and performance, searching the best practices & the best architecture for the application.</h3>
+<h3 align="center">Software engineer with 7 years of experience developing Angular applications of high quality and performance, searching the best practices & the best architecture for the application.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
